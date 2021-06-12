@@ -329,7 +329,7 @@ class PaymentTransactionsTile extends StatelessWidget {
                               title,
                               textAlign: TextAlign.start,
                               style: TextStyle(
-                                  fontSize: 18, fontWeight: FontWeight.w500,color: Color(0xFFF3F4F5)),
+                                  fontSize: 18, fontWeight: FontWeight.w500,),
                             ),
                           ],
                         ),

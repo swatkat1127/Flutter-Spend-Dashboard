@@ -1,16 +1,12 @@
 # flutter_spend_dashboard
 
-A new Flutter application.
+The dashboard shows the user their transaction details and a summary of their spends according to payment categories in a rich UI.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+### ✌&ensp;Preview
 
-A few resources to get you started if this is your first Flutter project:
+|              Video                   |        Dashboard Screen              |
+| :----------------------------------: | :----------------------------------: |
+| https://user-images.githubusercontent.com/17541038/121775404-0a6ead80-cba5-11eb-9aff-845b7bc5530a.mp4| ![Screenshot_20210612-172433](https://user-images.githubusercontent.com/17541038/121775479-a13b6a00-cba5-11eb-9c4a-89181c29be6e.png)|
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.

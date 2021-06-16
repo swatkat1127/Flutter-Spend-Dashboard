@@ -2,6 +2,13 @@
 
 The dashboard shows the user their transaction details and a summary of their spends according to payment categories in a rich UI.
 
+### Highlights:
+
+- ListView-builder and ListView widget on the info retrieved from the API to build scrolling views
+- SizeAnimatedWidget for animation
+- Custom ListTile
+- Sorting info retrieved from API
+- Positioned Widget
 
 ### ✌&ensp;Preview
 

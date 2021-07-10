@@ -12,7 +12,7 @@ class NetworkHelper {
           "title": "Mobile Home Dealers",
           "description": "last payment 17 May",
           "amount": 4948,
-          "percentage": 52,
+          "percentage": 49,
         },
         {
           "title": "Taxicabs And Limousines",
@@ -24,13 +24,19 @@ class NetworkHelper {
           "title": "Miscellaneous Apparel And Accessory Shops",
           "description": "last payment 6 April",
           "amount": 245,
-          "percentage": 28,
+          "percentage": 25,
         },
         {
           "title": "Miscellaneous Apparel And Accessory Shops",
           "description": "last payment 6 April",
           "amount": 140,
           "percentage": 12,
+        },
+        {
+          "title": "Miscellaneous Apparel And Accessory Shops",
+          "description": "last payment 6 April",
+          "amount": 200,
+          "percentage": 8,
         },
       ],
       "transactions": [
